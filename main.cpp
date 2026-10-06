@@ -1,3 +1,14 @@
+/**
+* Author: Janae Lewis
+* Assignment: 2d Scene
+* Date due: [10/05/2026]
+* I pledge that I have completed this assignment without
+* collaborating with anyone else, in conformance with the
+* NYU School of Engineering Policies and Procedures on
+* Academic Misconduct.
+**/
+
+
 #include "raylib.h"
 #include <math.h>
 
